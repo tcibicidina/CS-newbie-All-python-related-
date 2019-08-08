@@ -55,3 +55,4 @@ I still need to figure out:
 - [ ] Why every time I try to push / pull my gitbash keeps asking for my username and password? Is there
 a way to figure it out one time for all? I am sure there is!
 - [ ] How does `.gitignore` work
+- [ ] Learn the options for `git status`
