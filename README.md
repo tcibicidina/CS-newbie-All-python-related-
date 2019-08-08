@@ -1,1 +1,2 @@
-# CS-newbie-ALL-python-related-
+# Python Newbie!
+This is the notes of a python newbie who is (silly) using windows recording all the issues she encoutered installing / importing / using python pacakges and setting up the environments! Let's hoping this note can help somehow!
