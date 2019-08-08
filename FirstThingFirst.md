@@ -1,9 +1,9 @@
-# First thing first
-Yet, I still need to admit that I am on the very beginning of the github learning curve, so
-I am going to record everything I learnt / yet to learn here.
+# Git Intro
+
+This note will serve as an intro to setting up GtiHub (remotely and locally) while I learn.
 Specifically, this tutorial works for the windows operating system.
 
-## Create a new reporsitory, initialize things
+## Initializing
 
 Here I am going to record all the command I typed /other steps I did to create this whole new repository!
 
@@ -49,8 +49,9 @@ git status
 ```
 Great! Now we finished our very own first thing first! 
 
-## Yet to learn!
-I still need to figure out
-- 1. Why every time I try to push / pull my gitbash keeps asking for my username and password? Is there
+## To-do's
+I still need to figure out:
+
+- [ ] Why every time I try to push / pull my gitbash keeps asking for my username and password? Is there
 a way to figure it out one time for all? I am sure there is!
-- 2. How does `.gitignore` work
+- [ ] How does `.gitignore` work
