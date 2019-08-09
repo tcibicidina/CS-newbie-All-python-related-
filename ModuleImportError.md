@@ -77,8 +77,11 @@ It is as simple as that.
 
 ## Things yet to learn
 
-- [ ] It has been a unresolved pain for me I admit, that my Jupyter notebook never allows me to switch kernels once I opend a jupyter notebook file. Though based on some of today's research, maybe I need to register the kernels first?
+- [ ] It has been a unresolved pain for me I admit, that my Jupyter notebook never
+        allows me to switch kernels once I opend a jupyter notebook file. Though
+        based on some of today's research, maybe I need to register the kernels first?
 
-- [ ] I upgraded python in my base environment, but it is currently still version 3.6.9 instead of 3.7.3. Gotta find a way to make that right!
+- [ ] I upgraded python in my base environment, but it is currently still version
+        3.6.9 instead of 3.7.3. Gotta find a way to make that right!
 
 
