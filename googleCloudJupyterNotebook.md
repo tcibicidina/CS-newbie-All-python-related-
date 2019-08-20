@@ -34,8 +34,11 @@ https://github.com/jupyter/notebook/issues/2265
 that looks helpful.
 
 8. Attention!!!!
+
 According to the article, it is very important to have a strong Jupyter Password; also remember to stop the VM
 when you are not running it. The reason is that Jupyter allows you lauch a terminal with sudo access within
 the Jupyter Notebook which can then take control of your VM and steal your credit. So take a look here!
+
 https://blog.jupyter.org/public-notebooks-and-security-3058c433c884
+
 https://letsencrypt.org/zh-cn/getting-started/
